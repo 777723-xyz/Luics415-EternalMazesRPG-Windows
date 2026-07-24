@@ -232,8 +232,33 @@ Este repositorio se encuentra como una base de juego completa, lista para ser re
 
 ## Licencia
 
-Si el proyecto forma parte de un desarrollo propio o de un proyecto distribuido por ti, puedes definir aquí la licencia correspondiente.
+Este proyecto se distribuye bajo la licencia MIT, con el siguiente propósito:
+
+- permitir el uso, copia, modificación y distribución del proyecto,
+- mantener la atribución al autor principal,
+- y facilitar la publicación del juego en repositorios públicos o privados.
+
+La licencia completa está disponible en el archivo [LICENSE](LICENSE).
+
+> Nota importante: aunque este repositorio se comparte bajo una licencia abierta, el juego puede incluir recursos, librerías o motores de terceros con sus propias condiciones. La licencia principal aplicada aquí cubre la organización del repositorio, el contenido original y la documentación asociada.
 
 ## Créditos
 
-Este README se ha preparado para documentar el proyecto de forma completa y clara, reflejando la estructura, la dinámica y el contenido visible dentro del videojuego.
+### Autor principal
+
+- Luics415
+
+### Proyecto
+
+Eternal Mazes RPG Windows es un videojuego de estilo RPG desarrollado como proyecto personal, con foco en una experiencia de exploración, diálogo, progresión y combate por turnos.
+
+### Créditos del desarrollo
+
+- Dirección, estructura y organización del proyecto: Luics415
+- Diseño de contenido y desarrollo del sistema base del juego: Luics415
+- Documentación y publicación del repositorio: Luics415
+
+### Agradecimientos
+
+Este proyecto incorpora una base técnica y de contenido orientada a RPG clásico, con una organización basada en datos, recursos visuales, audio y lógica de juego. Gracias a la comunidad, a los motores de referencia y a la estructura de desarrollo del género, este juego puede seguir creciendo y ampliándose con nuevas mecánicas y contenidos.
+
