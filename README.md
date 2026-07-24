@@ -156,6 +156,9 @@ El archivo `package.json` define la configuración de la aplicación y establece
 
 Esto indica que el juego se ejecuta como una aplicación de escritorio con una interfaz basada en navegador y recursos locales.
 
+<img width="1550" height="874" alt="image" src="https://github.com/user-attachments/assets/4d8eefeb-b34d-4836-aa52-f6320d08f028" />
+
+
 ### Motor y dependencias
 
 La estructura usa bibliotecas y recursos propios del estilo de RPG Maker/engine de scriptado web, con archivos como:
